@@ -2,4 +2,3 @@
 - 👀 I’m interested in App and Game Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Discord bots!
-- 📫 Reach via discord @bigdaddyvlad
